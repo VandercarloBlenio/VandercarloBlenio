@@ -94,5 +94,3 @@ Topics covered:
 📂 GitHub: https://github.com/VandercarloBlenio
 
 ---
-
-> "Data becomes valuable when it helps explain real-world economic and business phenomena."
