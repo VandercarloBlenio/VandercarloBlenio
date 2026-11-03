@@ -2,7 +2,7 @@
 
 ## About Me
 
-🎓 Economics and Management graduate with a strong interest in Business Intelligence, ERP systems, data analysis, and economic research.
+🎓 Economics and Management graduate with a strong interest in data analysis, economic research and ERP systems.
 
 📊 I enjoy transforming economic and business data into meaningful insights through visualization and analytical tools.
 
@@ -11,13 +11,10 @@
 - Microsoft Power BI
 - SQL & MySQL
 - SAP S/4HANA Fiori
-- Microsoft Excel
+- Microsoft Excel, Word and PowerPoint 
 - R
 - Data Visualization
-- Business Intelligence
 - ERP Systems
-
-🌍 Based in Rome, Italy.
 
 ---
 
@@ -32,7 +29,7 @@ This Power BI project investigates the relationship between Brent crude oil pric
 - 🇩🇪 Germany
 - 🇪🇸 Spain
 
-The dashboard explores how fluctuations in energy markets may influence industrial output and inflation dynamics, enabling cross-country comparisons through data visualization and statistical indicators.
+trying to explain the causes of certain phenomena concerning the available data. The dashboard explores how fluctuations in energy markets may influence industrial output and inflation dynamics, enabling cross-country comparisons through data visualization and statistical indicators.
 
 🔗 **Repository:**  
 [Energy Project](https://github.com/VandercarloBlenio/Energy_Project)
@@ -53,7 +50,7 @@ Relevant topics:
 
 ### Software Consultant Training
 Topics covered:
-- SQL & T-SQL
+- SQL 
 - Business Intelligence Fundamentals
 - Crystal Reports
 - Qlik
@@ -85,7 +82,6 @@ Topics covered:
 
 - Advanced Power BI
 - Data Modeling
-- ERP Consulting
 - Business Analytics
 - SQL for Business Intelligence
 
